@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     'usuarios',
     'productos',
     'pedidos',
+    'reportes',
     'corsheaders',
     'drf_yasg',
 ]
